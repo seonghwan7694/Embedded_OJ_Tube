@@ -469,3 +469,68 @@
 2022-06-21 06:09:13,322 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 1645mS.
 2022-06-21 06:09:13,323 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
 2022-06-21 06:09:13,335 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-06-21 06:26:39,304 [INFO] Gpio:254 - dependency for GPIO [SYS]
+2022-06-21 06:27:00,954 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 235190936 Bytes (816840704)
+2022-06-21 06:27:05,347 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 249871000 Bytes (816840704)
+2022-06-21 06:27:07,405 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 279231128 Bytes (816840704)
+2022-06-21 06:27:07,936 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-06-21 06:27:07,936 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-06-21 06:27:07,936 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-06-21 06:27:07,936 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-06-21 06:27:07,938 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-06-21 06:27:08,081 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\license.tmp_save
+2022-06-21 06:27:08,155 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\license.tmp
+2022-06-21 06:27:08,177 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\gpio.tmp_save
+2022-06-21 06:27:08,264 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\gpio.tmp
+2022-06-21 06:27:08,287 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\stm32f1xx_it.c_save
+2022-06-21 06:27:08,361 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\stm32f1xx_it.c
+2022-06-21 06:27:08,367 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\stm32f1xx_it.h_save
+2022-06-21 06:27:08,424 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\stm32f1xx_it.h
+2022-06-21 06:27:08,441 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\stm32f1xx_hal_msp.c_save
+2022-06-21 06:27:08,527 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\stm32f1xx_hal_msp.c
+2022-06-21 06:27:08,531 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\system.tmp_save
+2022-06-21 06:27:08,599 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\system.tmp
+2022-06-21 06:27:08,612 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-06-21 06:27:08,692 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\stm32f1xx_hal_conf.h
+2022-06-21 06:27:08,720 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\main.h_save
+2022-06-21 06:27:08,799 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\main.h
+2022-06-21 06:27:08,810 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\main.c_save
+2022-06-21 06:27:08,908 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\main.c
+2022-06-21 06:27:09,818 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 333mS.
+2022-06-21 06:27:09,820 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-06-21 06:27:10,005 [INFO] ConfigFileManager:1287 - The Die is : DIE410
+2022-06-21 06:27:11,348 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 1528mS.
+2022-06-21 06:27:11,349 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-06-21 06:27:11,351 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-06-21 06:31:48,534 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 250897560 Bytes (816840704)
+2022-06-21 06:31:49,388 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 265541856 Bytes (816840704)
+2022-06-21 06:31:52,791 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 297260864 Bytes (816840704)
+2022-06-21 06:31:53,260 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-06-21 06:31:53,261 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-06-21 06:31:53,261 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-06-21 06:31:53,261 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-06-21 06:31:53,262 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-06-21 06:31:53,393 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\license.tmp_save
+2022-06-21 06:31:53,497 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\license.tmp
+2022-06-21 06:31:53,515 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\gpio.tmp_save
+2022-06-21 06:31:53,615 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\gpio.tmp
+2022-06-21 06:31:53,640 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\stm32f1xx_it.c_save
+2022-06-21 06:31:53,724 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\stm32f1xx_it.c
+2022-06-21 06:31:53,729 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\stm32f1xx_it.h_save
+2022-06-21 06:31:53,797 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\stm32f1xx_it.h
+2022-06-21 06:31:53,813 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\stm32f1xx_hal_msp.c_save
+2022-06-21 06:31:53,888 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\stm32f1xx_hal_msp.c
+2022-06-21 06:31:53,892 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\system.tmp_save
+2022-06-21 06:31:53,942 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\MXTmpFiles\system.tmp
+2022-06-21 06:31:53,956 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-06-21 06:31:54,036 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\stm32f1xx_hal_conf.h
+2022-06-21 06:31:54,066 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\main.h_save
+2022-06-21 06:31:54,140 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Inc\main.h
+2022-06-21 06:31:54,150 [INFO] CodeEngine:237 - oldGeneratedFile, D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\main.c_save
+2022-06-21 06:31:54,249 [INFO] CodeEngine:261 - Generated code: D:\github_repository\Embedded_OJ_Tube\pepper_dryer\Core\Src\main.c
+2022-06-21 06:31:55,012 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 264mS.
+2022-06-21 06:31:55,015 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-06-21 06:31:55,216 [INFO] ConfigFileManager:1287 - The Die is : DIE410
+2022-06-21 06:31:56,187 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 1172mS.
+2022-06-21 06:31:56,188 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-06-21 06:31:56,190 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.

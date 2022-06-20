@@ -99,8 +99,6 @@ int main(void)
 	  HAL_Delay(100);
 	  */
 
-
-
 	  /* 2022-06-20 : control LED using switch!
 	  if(!HAL_GPIO_ReadPin(GPIO_SW_GPIO_Port, GPIO_SW_Pin)){
 		  HAL_GPIO_WritePin(GPIO_LED_GPIO_Port, GPIO_LED_Pin, 0);
@@ -109,8 +107,6 @@ int main(void)
 	  }
 	  HAL_Delay(100);
 	  */
-
-
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
