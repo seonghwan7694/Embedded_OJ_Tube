@@ -4,4 +4,12 @@
 	</section>
 	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
 	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="227191"/>
+		<list key="previousPatterns">
+			<item value="FLASH"/>
+			<item value="FLASHACRFLASH_ACR_PRFTBE"/>
+		</list>
+	</section>
 </section>
