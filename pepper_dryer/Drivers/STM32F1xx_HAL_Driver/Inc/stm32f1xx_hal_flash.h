@@ -227,7 +227,7 @@ typedef struct
 /**
   * @brief  Enable the FLASH prefetch buffer.
   * @retval None
-  */ 
+*/
 #define __HAL_FLASH_PREFETCH_BUFFER_ENABLE()    (FLASH->ACR |= FLASH_ACR_PRFTBE)
 
 /**
